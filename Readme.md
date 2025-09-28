@@ -20,9 +20,9 @@ This project demonstrates how to host a **static website** on **AWS** using **S3
 
 ### 1. Create S3 Bucket
 - Go to S3 console
-- Create a bucket with your domain name (e.g., `rohans.in`)
+- Create a bucket with your domain name (`rohans.in`)
 - Enable **Static Website Hosting**
-- Upload website files (`index.html`, etc.)
+- Upload website files (`index.html`)
 - Set proper bucket permissions (public read)
 ![](./img/s3.png)
 
@@ -62,6 +62,7 @@ This project demonstrates how to host a **static website** on **AWS** using **S3
 **Rohan Ramesh Dhenge**  
 Email: rohandhenge8680@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/rohan-dhenge](https://www.linkedin.com/in/rohan-dhenge)
+
 
 
 

@@ -1,6 +1,6 @@
 # AWS Static Website Hosting with S3, CloudFront, Route 53, and ACM
 
-## Introductio
+## Introduction
 This project demonstrates how to host a **static website** on **AWS** using **S3**, **CloudFront**, **Route 53**, and **AWS Certificate Manager (ACM)** for secure HTTPS access.  
 
 **Key Features:**
@@ -62,6 +62,7 @@ This project demonstrates how to host a **static website** on **AWS** using **S3
 **Rohan Ramesh Dhenge**  
 Email: rohandhenge8680@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/rohan-dhenge](https://www.linkedin.com/in/rohan-dhenge)
+
 
 
 

@@ -60,8 +60,9 @@ This project demonstrates how to host a **static website** on **AWS** using **S3
 
 ## Author
 **Rohan Ramesh Dhenge**  
-Email: rohanDhenge8680@gmail.com  
+Email: rohandhenge8680@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/rohan-dhenge](https://www.linkedin.com/in/rohan-dhenge)
+
 
 
 
